@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "赵某人的博客网站"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
 ## 欢迎来到赵某人的博客网站
 **Hello探险家，**\
   欢迎来到我的个人网站，祝您旅途愉快！\
