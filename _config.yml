@@ -21,7 +21,7 @@ repository               : "Aurora-ZJW/Aurora-ZJW.github.io" # 仓库地址
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" 头像
+  avatar           : "https://a1.qpic.cn/psc?/V504ANtr27sf503GdBvf3FjeLH3TCn4R/TmEUgtj9EK6.7V8ajmQrEO9yXu6zPKv.Od2unh1y.oM0PntlLJN0Oj57RPslvvn7EzgPKzJybKO9JsIy6H3iuLWp5neGRXz5pePZJaOFU7k!/m&ek=1&kp=1&pt=0&bo=4gUDBuIFAwYWECA!&t=5&tl=3&vuin=2726862440&tm=1737284400&dis_t=1737287813&dis_k=eb6a9bde7044907c57f69df65b259582&sce=60-4-3&rf=0-0" 头像
   name             : "赵某人" 
   pronouns         : "男"# example: "she/her"   # 性别
   bio              : "爱整活的高中生一枚"
